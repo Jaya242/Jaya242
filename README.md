@@ -44,7 +44,10 @@ My work sits at the intersection of **computer vision**, **ML systems**, and **p
 
 ---
 ## Achievements
-
+| | Competition | Year |
+|---|---|---|
+| 🥇 | 1st Prize — Marketing Mavericks, GTM Strategy Competition (Renaissance 2025, E-Cell MNNIT) | 2025 |
+| 🥈 | Silver Medal — Taekwondo (Spardha 2025, Annual Sports Fest, IIT BHU Varanasi) | 2025 |
 
 
 ---
