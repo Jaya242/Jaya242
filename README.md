@@ -3,14 +3,18 @@
 **· Building distributed systems, AI infrastructure, and developer tools**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-jayaarora.vercel.app-0E75B6?style=flat-square&logo=vercel&logoColor=white)](https://jayaarora.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-jaya--arora-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaya-arora-6892a93a0/)
-[![Email](https://img.shields.io/badge/Email-jayaarora2402@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:jayaarora2402@gmail.com)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaya-arora-6892a93a0/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:jayaarora2402@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Jaya242)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FF8C00?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/Jaya_242/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/jayaarora242)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white)](https://www.codechef.com/users/jaya_242)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=flat-square&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/jayaaros8q1/)
 ---
 
 ## About
 
-I'm a 3rd-year mechanical engineering student at MNNIT Allahabad. I build and tune deep learning models and ship them end-to-end: training pipelines, FastAPI services, Docker, and cloud deployments.
+Hey Folks! I'm a 3rd-year mechanical engineering student at MNNIT Allahabad. I build and tune deep learning models and ship them end-to-end: training pipelines, FastAPI services, Docker, and cloud deployments.
                                                                                                                                                               
 My work sits at the intersection of **computer vision**, **ML systems**, and **production deployment**. I care about building things that actually run in production — not just notebook demos.
   
@@ -48,6 +52,7 @@ My work sits at the intersection of **computer vision**, **ML systems**, and **p
 |---|---|---|
 | 🥇 | 1st Prize — Marketing Mavericks, GTM Strategy Competition (Renaissance 2025, E-Cell MNNIT) | 2025 |
 | 🥈 | Silver Medal — Taekwondo (Spardha 2025, Annual Sports Fest, IIT BHU Varanasi) | 2025 |
+
 
 
 ---
