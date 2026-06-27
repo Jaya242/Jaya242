@@ -1,6 +1,6 @@
 # Jaya Arora
 
-**Co-Founder & CTO @ [Dreamvator](https://dreamvator.com) · Building distributed systems, AI infrastructure, and developer tools**
+**· Building distributed systems, AI infrastructure, and developer tools**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-jayaarora.vercel.app-0E75B6?style=flat-square&logo=vercel&logoColor=white)](https://jayaarora.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-jaya--arora-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaya-arora-6892a93a0/)
