@@ -24,14 +24,26 @@ My work sits at the intersection of **computer vision**, **ML systems**, and **p
 
 ## Projects
 
- ### [`Traffic Analytics`](https://github.com/Jaya242/traffic_detector) — Real-Time Vehicle Detection & Multi-Object Tracking Pipeline
-  [![Live Demo](https://img.shields.io/badge/Live%20Demo-HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)](https://huggingface.co/spaces/Ctrlescflyy/traffic-analytics)
 
-  - **YOLOv8-nano + ByteTrack pipeline** — real-time vehicle detection with persistent multi-object tracking IDs maintained across 200+ frames.
-  - **Dual-line crossing counter** with per-vehicle dedup via Python set operations — **96.2% accuracy, 100% recall** validated on 2,208-frame manually-annotated ground truth.
-  - **End-to-end deployment** — raw video → annotated MP4 + per-event CSV log, served via Gradio on HuggingFace Spaces with matplotlib analytics dashboard.
-  `Python` `PyTorch` `YOLOv8` `ByteTrack` `OpenCV` `Gradio` `HuggingFace Spaces` `matplotlib`
+  ### [`Traffic Analytics`](https://github.com/Jaya242/traffic_detector) — Real-Time Vehicle Detection & Multi-Object Tracking Pipeline
+  [![Live Demo](https://img.shields.io/badge/Live%20Demo-HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)](https://huggingface.co/spaces/Ctrlescflyy/traffic-analytics)
   
+- **YOLOv8-nano + ByteTrack pipeline** — real-time vehicle detection with persistent multi-objecttracking IDs maintained across 200+ frames.
+- **Dual-line crossing counter** with per-vehicle dedup via Python set operations — **96.2% accuracy, 100% recall** validated on 2,208-frame manually-annotated ground truth.
+- **End-to-end deployment** — raw video → annotated MP4 + per-event CSV log, served via Gradio onHuggingFace Spaces with matplotlib analytics dashboard.
+  
+`Python` `PyTorch` `YOLOv8` `ByteTrack` `OpenCV` `Gradio` `HuggingFace Spaces` `matplotlib`
+
+  ---
+
+### [`Emotion Classifier`](https://github.com/Jaya242/emotion_classifier) — Facial Emotion Recognition with GradCAM Interpretability 
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)](https://huggingface.co/spaces/Ctrlescflyy/emotion-classifier)
+  
+- **ResNet18 transfer learning** — fine-tuned ImageNet-pretrained ResNet18 on FER2013 across 7 emotion classes; **68.7% test accuracy** validated on 7,178-image held-out split (beats published baseline of 60–65%).
+- **GradCAM interpretability layer** — generates heatmap overlays showing which face regions (eyes,mouth, eyebrows) drove each prediction; integrated as a toggle in the live demo.
+- **End-to-end Gradio app** — webcam capture + image upload + per-class probability breakdown, deployed on HuggingFace Spaces (free CPU tier) with `git-lfs` for the 43MB checkpoint.
+  
+  `Python` `PyTorch` `ResNet18` `GradCAM` `Gradio` `HuggingFace Spaces` `MPS`
 ---
 ### [`GeoFusion`](https://github.com/Jaya242/geofusion-platform) — Cross-Modal Satellite Intelligence Retrieval Engine
   [![Live Demo](https://img.shields.io/badge/Live%20Demo-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)](https://geofusion-platform.vercel.app)
